@@ -9,7 +9,7 @@ MSP430 ile MP3 Player Similasyonu
 3. Çizgi Tagem MSP430 Eğitim Kiti üzerindeki butonlar  
 
 **Açıklama**  
-Program  döngü içerisinde hafıza kartının içeriğini kontrol edip, dosya listesini okumaktadır. Hafıza kartı FAT16 dosya sistemi olmalıdır. MP3 uzantılı dosyaların içerisinde “01:28” gibi 5 karakterli süre bilgisi bulunmaktadır. Hafıza kartı çıkarıldığı zaman LCD ekranda uyarı mesajı çıkmaktadır. Açıldığı zaman ilk parçada duraklatılmış şekilde beklemektedir. Switch ve Jumper ayarları aşağıdaki şekildedir.  
+Program  döngü içerisinde hafıza kartının içeriğini kontrol edip, dosya listesini okumaktadır. Hafıza kartı FAT16 dosya sistemi olmalıdır. MP3 uzantılı dosyaların içerisinde “01:28” gibi 5 karakterli süre bilgisi bulunmaktadır. Hafıza kartı çıkarıldığı zaman LCD ekranda uyarı mesajı çıkmaktadır. Açıldığı zaman ilk parçada duraklatılmış şekilde beklemektedir. 
  
 MCU ve kaynaklarının bağlantıları aşağıdaki gibidir.
 

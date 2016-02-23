@@ -1,0 +1,8 @@
+C:\Users\yusuf\Google Drive\Dersler\İleri Konular\Projeler\SerialPort\SerialPort\bin\Debug\SerialPort.exe
+C:\Users\yusuf\Google Drive\Dersler\İleri Konular\Projeler\SerialPort\SerialPort\bin\Debug\SerialPort.pdb
+C:\Users\yusuf\Google Drive\Dersler\İleri Konular\Projeler\SerialPort\SerialPort\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yusuf\Google Drive\Dersler\İleri Konular\Projeler\SerialPort\SerialPort\obj\Debug\SerialPort.Properties.Resources.resources
+C:\Users\yusuf\Google Drive\Dersler\İleri Konular\Projeler\SerialPort\SerialPort\obj\Debug\SerialPort.csproj.GenerateResource.Cache
+C:\Users\yusuf\Google Drive\Dersler\İleri Konular\Projeler\SerialPort\SerialPort\obj\Debug\SerialPort.exe
+C:\Users\yusuf\Google Drive\Dersler\İleri Konular\Projeler\SerialPort\SerialPort\obj\Debug\SerialPort.pdb
+C:\Users\yusuf\Google Drive\Dersler\İleri Konular\Projeler\SerialPort\SerialPort\obj\Debug\SerialPort.frmMain.resources

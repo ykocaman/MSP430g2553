@@ -1,6 +1,6 @@
 MSP430 Eğitim Kiti ile Uygulamalar
 ----------------------------------
-**MCU:** Texas I. MSP430g2553
+**MCU:** Texas I. MSP430g2553  
 **IDE:** Energia  
 **Eğitim Kiti:** http://www.mcu-turkey.com/msp430egitimkiti/  
 **Energia Ek Kütühaneler:** [OneWire](Library/OneWire), [RTCv2](Library/RTC_version2), [SDCard Petit FatFs](Library/SDCardTutorialWithEnergia)  

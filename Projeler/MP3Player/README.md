@@ -53,9 +53,9 @@ ST_STOP , ST_PLAY, ST_PAUSE,  ST_PREV, ST_NEXT, ST_OFF, ST_NOSD
 **checkTimer:** Çalma durumlarında 1 saniyede, ileri ve geri sarma durumlarında ise 100 ms süreyle zamanı değiştirmektedir.  
 **generateTimer:** Sayısal değer olan zaman bilgisini stringe çevirmektedir.  
 
-  time[0] = (minute / 10) + '0';  
-  time[1] = (minute % 10) + '0';  
-  time[2] = ':';  
-  time[3] = (second / 10) + '0';  
-  time[4] = (second % 10) + '0';  
-  time[5] = '\0';  
+ time[0] = (minute / 10) + '0';  
+ time[1] = (minute % 10) + '0';  
+ time[2] = ':';  
+ time[3] = (second / 10) + '0';  
+ time[4] = (second % 10) + '0';  
+ time[5] = '\0';  

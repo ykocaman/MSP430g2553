@@ -5,7 +5,7 @@ MSP430 Eğitim Kiti ile Uygulamalar
 **Eğitim Kiti:** http://www.mcu-turkey.com/msp430egitimkiti/  
 **Energia Ek Kütühaneler:** [OneWire](Library/OneWire), [RTCv2](Library/RTC_version2), [SDCard Petit FatFs](Library/SDCardTutorialWithEnergia)  
 
-**Şema: ** [MCU](Library/LaunchPadMSP430G2553-V1.5.jpg) [Kit1](Library/sch_1.png) [Kit2](Library/sch_2.png)
+**Şema:** [MCU](Library/LaunchPadMSP430G2553-V1.5.jpg) [Kit1](Library/sch_1.png) [Kit2](Library/sch_2.png)
 
 Uygulamalar
 ----------------------------------

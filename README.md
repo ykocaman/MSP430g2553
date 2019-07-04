@@ -9,16 +9,16 @@ MSP430 Eğitim Kiti ile Uygulamalar
 
 Uygulamalar
 ----------------------------------
-[MP3 Player (Simulasyon)] (Projeler/MP3Player)  
-[Kronometre] (Projeler/Kronometre)  
-[Saat] (Projeler/Saat)  
-[IR] (Projeler/IR)  
-[IR-Serial] (Projeler/IR-Serial)  
-[Fiyat Sistemi] (Projeler/FiyatSistemi)  
-[SMSLine] (Projeler/SMSLine)  
-[Yolcu Kart Sistemi] (Projeler/YolcuKartSistemi)  
+[MP3 Player (Simulasyon)](Projeler/MP3Player)  
+[Kronometre](Projeler/Kronometre)  
+[Saat](Projeler/Saat)  
+[IR](Projeler/IR)  
+[IR-Serial](Projeler/IR-Serial)  
+[Fiyat Sistemi](Projeler/FiyatSistemi)  
+[SMSLine](Projeler/SMSLine)  
+[Yolcu Kart Sistemi](Projeler/YolcuKartSistemi)  
 
 
 Ek Uygulamalar
 ----------------------------------
-[Seri Port Okuyucu (C#)] (Projeler/SerialPort)  
+[Seri Port Okuyucu (C#)](Projeler/SerialPort)  
